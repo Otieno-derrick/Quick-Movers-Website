@@ -1,0 +1,83 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+}
+
+ nav{
+     height: 90px   
+ }
+ nav ul{
+     float: right;
+     margin-right: 150px;
+ }
+ nav ul li{
+     display: inline-block;
+     line-height: 20px;
+     margin: 0 20px;
+     font-size: 15px;
+     color: white;
+ }
+ .head{
+     color: #FAFF00;
+     font-size: 45px;
+     position: relative;
+     left: 100px;   
+ }
+
+ .comp{
+     font-size: 35px;
+     color: white;
+     position: relative;
+     left: 100px; 
+ }
+
+ #back{
+    background-image: url(/img/moving\ 1.png);
+    height: 85vh; 
+    background-size: cover;
+ }
+
+ .h{
+     width: 70%;
+     height: 7px;
+     border: 0 none;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: gold black;
+ }
+ .butn1{
+     color: black;
+     background-color: #FAFF00;
+ }
+ .butn2{
+     color: #FAFF00;
+     background-color: black;
+ }  
+
+ #new{
+     display: flex;
+     margin-top: 80px;
+     justify-content: space-between;
+     padding-right: 90px;
+ } 
+
+ .right{
+     padding-right: 200px;
+     margin-top: 125px;
+     font-size: 15px;
+ }
+  
+.lol{
+    color: #FAFF00;
+    background-color: black;
+    padding-top: 0px;
+}
+
+#h3{
+    font-size: 20px;
+}
+  
+
+
+
