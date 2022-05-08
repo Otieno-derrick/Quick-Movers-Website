@@ -165,7 +165,6 @@ html.body{
   .social-icons{
       display: flex;
       list-style: none;
-      /* float: left; */
   }
 
   #left{
