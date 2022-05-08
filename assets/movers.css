@@ -35,7 +35,9 @@ body{
 
 #buton{
      color: black;
-     background-color: #FAFF00;  
+     background-color: #FAFF00;
+     font-size: 20px; 
+     border-radius: 5px 50px 30px 5px; 
  }
 
  .kichwa{
@@ -264,4 +266,11 @@ body{
   text-align: center;
   line-height: 20px;
   font-size: 15px;
+}
+
+.boy{
+    padding-left: 1050px;
+    padding-bottom: 30px;
+    border-radius: 30px;
+}
 
