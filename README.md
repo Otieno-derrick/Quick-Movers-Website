@@ -8,7 +8,7 @@ We also value our cliants feedbacks from all coners.
 ##Setup/installation guide
 * clone the repository to your local machine
     ```
-    $ git https://github.com/Otieno-derrick/Quick-Movers-Website.git
+    $ git https://github.com/Otieno-derrick/Quick-Movers-Website
     ```
 * Move into the cloned
     ```
