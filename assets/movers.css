@@ -3,6 +3,7 @@
     margin: 0%;
     box-sizing: border-box;
     /*background-color: #e0dbdb;*/
+   /* position: absolute;*/
 }
 
 body{
@@ -11,6 +12,7 @@ body{
     top: 0%;
     bottom: 0%;
     background-color: #e0dbdb;
+    position: sticky;
 }
 
  nav{
@@ -102,6 +104,164 @@ body{
     padding: 0.1em;
 
  }
+ .pan{
+    font-size: 15px;
+/*    padding-left: 100px;
+    padding-right: 100px;*/
+    background-color: white;
+    padding-top: 15px;
+ }
+
+ #von{
+/*    padding-left: 100px;
+    padding-right: 100px;*/
+    font-size: 30px;
+    padding-bottom:15px ;
+ }
+
+#em{
+   background-color: white;
+   border-radius: 30px;
+/*   padding-right: 100px;
+   padding-left: 100px;*/
+   padding: 20px 20px;
+   margin-right: 40%;
+   margin-left: 7%;
+   margin-top: 10px;
+}
+
+#gon{
+   padding: 20px 20px;
+   margin-right: 40%;
+   margin-left: 7%;
+   margin-top: 10px;
+   background-color: white;
+   border-radius: 30px;
+}
+
+.red{
+    font-size: 30px;
+    padding-bottom:15px ;
+}
+
+#son1{
+    font-size: 15px;
+    list-style: none;
+
+}
+
+#son2{
+    font-size: 15px;
+    align-items: center;
+}
+
+#son3{
+    font-size: 15px;
+}
+#wee{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.mol{
+    padding-left: 200px;
+    font-size: 30px;
+    padding-top: 50px;
+
+}
+.faint{
+    border: 2px solid #413921;
+    border-radius: 3px;
+    width: 10%;
+    padding-left: 200px;
+}
+
+.don{
+    padding-left: 200px;
+    margin-bottom: 30px;
+}
 
 
+#pen{
+    background-color: black;
+    padding:45px 10 20px;
+    font-size:15px;
+    line-height:24px;
+    padding-left: 90px;
+    padding-top: 100px;
+}
+.fon{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 22px;
+}
+#yelo{
+    color: #FAFF00;
+}
+ .vl{
+    color: white;
+    display: block;
+    margin: 0px;
+} 
+
+.wl{
+    color: white;
+}
+
+.xl{
+   color: white;
+}
+
+.fa{
+    padding-left: 0px;
+    font-size: 40px;
+    width: 40px;
+    margin-left: 0px;
+    padding-top: 15PX;
+  }
+
+  .fa-facebook {
+    color: white;
+    /* padding-bottom: 20px; */
+  }
+  
+  .fa-twitter {
+    color: white;
+  }
+
+  .fa-instagram{
+      color: white;
+  }
+
+  .social-icons{
+      display: flex;
+      list-style: none;
+  }
+
+  #left{
+      list-style: none;
+
+  }
+
+  #center{
+       list-style: none;
+  }
+
+  #right{
+      list-style: none;
+
+  }
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  height: `200px;
+}
+
+.flex-container > div {
+  flex: 1;
+  margin: 10px;
+  text-align: center;
+  line-height: 20px;
+  font-size: 15px;
 
