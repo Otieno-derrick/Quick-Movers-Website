@@ -1,6 +1,6 @@
-# Quick_movere Company
-## This is ond of the most websites i have made.
-### Done By Derrick Ochieng O
+# Quick_movers Company
+## This is one of the websites I have made and it is not my first work.
+### Done By Derrick Ochieng Otieno
 ## Description
 This is a quick movers company that deals with helping people in moving there home items when moving to new homes or when transporting there furniture after buying them we also have diffrent outlets across the country that sell home furnitures.
 We also value our cliants feedbacks from all coners.
@@ -27,4 +27,4 @@ There are no bugs identified in the project.
   You can give us your feedback through our email or you can also contribute to our project add new features.
   ### Licence
   Copyright (c) 2020 Derrick Ochieng Otieno
-  ...................xvcv
+...................xvcv
